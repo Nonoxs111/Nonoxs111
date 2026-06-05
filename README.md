@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=12,20,24&text=Nonoxs&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Building,%20Learning,%20Exploring.&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=87CEEB&text=Nonoxs&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Building,%20Learning,%20Exploring.&descAlignY=65"/>
 
 <br>
 
@@ -49,7 +49,7 @@ I enjoy building things on the web, exploring how systems work, and turning idea
 Browser extension designed to improve technical reading efficiency.
 
 * AI Agent Architecture
-* Prompt System
+* Prompt Engineering
 * Readability Extraction
 * Streaming Responses
 * Follow-up Workflow
@@ -60,13 +60,13 @@ React · TypeScript · WXT
 
 ### Mini Markdown Editor
 
-Reusable Markdown editor component library built with a monorepo architecture.
+Reusable Markdown editor component library.
 
+* Monorepo Architecture
 * CodeMirror Integration
 * Zustand State Management
 * Extensible Toolbar System
 * Theme Switching
-* Testing Workflow
 
 React · TypeScript · Vitest
 
@@ -116,14 +116,6 @@ Exploring better user experiences
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nonoxs111&bg_color=ffffff&color=60A5FA&line=60A5FA&point=93C5FD&hide_border=true"/>
-
-</div>
-
 ---
 
 <div align="center">
@@ -140,7 +132,6 @@ Exploring better user experiences
 Building, Learning, Exploring.
 
 </div>
-
 
 <!--
 **Nonoxs111/Nonoxs111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
