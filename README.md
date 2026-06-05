@@ -1,16 +1,14 @@
 <div align="center">
 
-# Nonoxs
-
-### Building, Learning, Exploring.
-
-Software Engineering Student
-
-Exploring Frontend, AI Applications and Better User Experiences.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=12,20,24&text=Nonoxs&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Building,%20Learning,%20Exploring.&descAlignY=65"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Frontend+%7C+AI+%7C+Product+Thinking;Always+Curious.;Always+Learning." />
+Software Engineering Student
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Interested+in+Frontend%2C+AI+Applications+and+Product+Experience;Building+things+I+wish+existed.;Always+learning+something+new." />
 
 </div>
 
@@ -18,33 +16,25 @@ Exploring Frontend, AI Applications and Better User Experiences.
 
 ## About
 
-I'm a software engineering student who enjoys building things on the web.
+Hi, I'm **Nonoxs**.
 
-Currently interested in:
+I'm a software engineering student interested in frontend engineering, AI applications and thoughtful product experiences.
 
-* Frontend Engineering
-* AI Applications
-* Browser Extensions
-* Component Design
-* Product Experience
-
-I enjoy turning ideas into products and continuously exploring how technology can create better experiences for people.
+I enjoy building things on the web, exploring how systems work, and turning ideas into usable products.
 
 ---
 
-## Tech Stack
+## Stack
 
 <div align="center">
 
-### Languages
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 
-### Frameworks
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=react,vue,nextjs" />
 
-### Tools
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vite,webpack,rollup,pnpm" />
 
@@ -52,78 +42,61 @@ I enjoy turning ideas into products and continuously exploring how technology ca
 
 ---
 
-## Featured Projects
+## Selected Work
 
-### 🤖 AI Reading Assistant
+### AI Reading Assistant
 
-An AI-powered browser extension designed to improve technical reading efficiency.
-
-**Highlights**
+Browser extension designed to improve technical reading efficiency.
 
 * AI Agent Architecture
-* Intelligent Content Extraction
-* Streaming Response Rendering
-* Prompt Template System
-* Follow-up Question Workflow
+* Prompt System
+* Readability Extraction
+* Streaming Responses
+* Follow-up Workflow
 
-**Tech**
+React · TypeScript · WXT
 
-`React` `TypeScript` `WXT` `SSE` `Readability`
+<br>
 
----
+### Mini Markdown Editor
 
-### 📖 Mini Markdown Editor
+Reusable Markdown editor component library built with a monorepo architecture.
 
-A reusable Markdown editor component library built with a monorepo architecture.
-
-**Highlights**
-
-* Editor / Preview Sync
+* CodeMirror Integration
+* Zustand State Management
 * Extensible Toolbar System
 * Theme Switching
-* Drag Upload
-* Fullscreen Mode
-* Testing & Versioning Workflow
+* Testing Workflow
 
-**Tech**
+React · TypeScript · Vitest
 
-`React` `TypeScript` `CodeMirror` `Zustand` `Vitest`
+<br>
 
----
+### Vue3 E-Commerce
 
-### 🛒 Vue3 E-Commerce
+Complete e-commerce frontend project covering authentication, cart, order and payment workflows.
 
-A complete e-commerce frontend project covering user, product, cart and order domains.
-
-**Highlights**
-
-* Cart Merge Strategy
-* SKU Selection Logic
-* Payment Workflow
-* Axios Encapsulation
-* State Persistence
-
-**Tech**
-
-`Vue3` `Pinia` `Vue Router` `Axios`
+Vue3 · Pinia · Axios · Element Plus
 
 ---
 
-## Current Focus
+## Currently
 
 ```txt
-→ Learning Next.js
+Building AI-powered tools
 
-→ Improving Frontend Engineering Skills
+Learning Next.js
 
-→ Building AI-powered Products
+Improving frontend engineering skills
 
-→ Preparing for Frontend Internships
+Preparing for frontend internships
+
+Exploring better user experiences
 ```
 
 ---
 
-## Philosophy
+## Principles
 
 > Stay curious.
 >
@@ -133,33 +106,41 @@ A complete e-commerce frontend project covering user, product, cart and order do
 
 ---
 
-## Stats
+## GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nonoxs111&show_icons=true&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nonoxs111&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nonoxs111&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nonoxs111&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nonoxs111&bg_color=ffffff&color=60A5FA&line=60A5FA&point=93C5FD&hide_border=true"/>
 
 </div>
 
 ---
 
-## Connect
-
-GitHub: https://github.com/Nonoxs111
-
-Email: [2105257813@qq.com](mailto:2105257813@qq.com)
-
----
-
 <div align="center">
 
-### ✦
+<a href="https://github.com/Nonoxs111">GitHub</a>
+  ·   <a href="mailto:2105257813@qq.com">Email</a>
+
+</div>
+
+<br>
+
+<div align="center">
 
 Building, Learning, Exploring.
 
 </div>
+
 
 <!--
 **Nonoxs111/Nonoxs111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
