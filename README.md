@@ -4,7 +4,7 @@
 
 <br>
 
-Software Engineering Student
+软件工程专业在读 
 
 <br>
 
@@ -16,11 +16,11 @@ Software Engineering Student
 
 ## About
 
-Hi, I'm **Nonoxs**.
+**Nonoxs**.
 
-I'm a software engineering student interested in frontend engineering, AI applications and thoughtful product experiences.
+目前是一名软件工程专业的学生，主要兴趣集中在前端开发、AI 应用落地，以及产品体验设计。
 
-I enjoy building things on the web, exploring how systems work, and turning ideas into usable products.
+我喜欢在 Web 平台上动手实践，乐于探究系统背后的运作逻辑，也享受从零到一将想法转化为产品的过程。
 
 ---
 
@@ -46,13 +46,13 @@ I enjoy building things on the web, exploring how systems work, and turning idea
 
 ### AI Reading Assistant
 
-Browser extension designed to improve technical reading efficiency.
+一款提升技术文献阅读效率的浏览器扩展插件。
 
-* AI Agent Architecture
-* Prompt Engineering
-* Readability Extraction
-* Streaming Responses
-* Follow-up Workflow
+* AI Agent 架构设计与实现
+* 提示词工程与输出质量优化
+* 文章正文智能提取
+* 流式响应与实时交互
+* 支持追问式深度阅读
 
 React · TypeScript · WXT
 
@@ -60,13 +60,13 @@ React · TypeScript · WXT
 
 ### Mini Markdown Editor
 
-Reusable Markdown editor component library.
+一套可灵活集成的 Markdown 编辑组件库。
 
-* Monorepo Architecture
-* CodeMirror Integration
-* Zustand State Management
-* Extensible Toolbar System
-* Theme Switching
+* 基于 Monorepo 的多包管理
+* 集成 CodeMirror 编辑内核
+* 使用 Zustand 进行状态管理
+* 支持工具栏按需扩展
+* 内置明暗主题切换
 
 React · TypeScript · Vitest
 
@@ -74,8 +74,7 @@ React · TypeScript · Vitest
 
 ### Vue3 E-Commerce
 
-Complete e-commerce frontend project covering authentication, cart, order and payment workflows.
-
+一个完整的电商前端项目，涵盖用户认证、购物车、订单管理和支付流程。
 Vue3 · Pinia · Axios · Element Plus
 
 ---
@@ -83,40 +82,26 @@ Vue3 · Pinia · Axios · Element Plus
 ## Currently
 
 ```txt
-Building AI-powered tools
-
-Learning Next.js
-
-Improving frontend engineering skills
-
-Preparing for frontend internships
-
-Exploring better user experiences
+开发 AI 驱动的小工具
+学习 Next.js
+打磨前端工程化能力
+准备前端实习面试
+探索更好的产品交互体验
 ```
 
 ---
 
 ## Principles
 
-> Stay curious.
+> 保持好奇.
 >
-> Build useful things.
+> 创造事物.
 >
-> Keep exploring.
+> 持续探索.
 
 ---
 
 ## GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nonoxs111&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nonoxs111&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -129,21 +114,7 @@ Exploring better user experiences
 
 <div align="center">
 
-Building, Learning, Exploring.
+创造, 学习, 探索.
 
 </div>
 
-<!--
-**Nonoxs111/Nonoxs111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
